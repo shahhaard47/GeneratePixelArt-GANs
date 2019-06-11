@@ -3,3 +3,6 @@ images/
 DCGAN-tensorflow/assets/
 DCGAN-tensorflow/web/
 sites_old.txt
+.vscode/
+.ipynb_checkpoints/
+out/

@@ -14,6 +14,7 @@ import time
 import datetime
 from time import gmtime, strftime
 from six.moves import xrange
+import imageio
 
 import tensorflow as tf
 import tensorflow.contrib.slim as slim
